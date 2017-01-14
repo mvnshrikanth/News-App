@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">News App</string>
     <string name="text_api_key">70e8d872-8dd4-43b1-b0e8-61b412cd1a41</string>
-    <string name="text_url">http://content.guardianapis.com/search?q=cricket&show-fields=thumbnail&api-key=70e8d872-8dd4-43b1-b0e8-61b412cd1a41</string>
+    <string name="text_url">http://content.guardianapis.com/search?q=cricket</string>
 </resources>
